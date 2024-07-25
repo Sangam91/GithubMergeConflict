@@ -1,0 +1,2 @@
+# GithubMergeConflict
+Merge Conflict
